@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\bin\Debug\net8.0\-vnigs-upg-foer-prove.exe
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\bin\Debug\net8.0\-vnigs-upg-foer-prove.deps.json
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\bin\Debug\net8.0\-vnigs-upg-foer-prove.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\bin\Debug\net8.0\-vnigs-upg-foer-prove.dll
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\bin\Debug\net8.0\-vnigs-upg-foer-prove.pdb
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.dll
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\refint\-vnigs-upg-foer-prove.dll
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.pdb
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\ref\-vnigs-upg-foer-prove.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("-vnigs-upg-foer-prove")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c74c46a76e66cd0470853fef30de22e22c1f8b10")]
 [assembly: System.Reflection.AssemblyProductAttribute("-vnigs-upg-foer-prove")]
 [assembly: System.Reflection.AssemblyTitleAttribute("-vnigs-upg-foer-prove")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

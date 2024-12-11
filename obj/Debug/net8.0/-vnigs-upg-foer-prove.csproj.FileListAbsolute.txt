@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\refint\-v
 C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.pdb
 C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\ref\-vnigs-upg-foer-prove.dll
+C:\Users\Admin\Documents\GitHub\-vnigs-upg-foer-prove\obj\Debug\net8.0\-vnigs-upg-foer-prove.sourcelink.json
